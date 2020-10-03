@@ -1,1 +1,2 @@
-main-redis
+config: 
+  info: main-redis aaaa
